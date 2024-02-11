@@ -1,4 +1,4 @@
-repo to document how you can use a `-e, --extra_var` to filter on any hostvars from a `dynamic`, `constructed` inventory using a custom plugin.
+repo to document how you can use a `-e, --extra_var` to filter on any hostvars from a `dynamic`, `constructed` inventory using `ansible.builtin.constructed` as well as a custom dynamic inventory plugin.
 
 
 **./dynamic-mysql.yml:**
