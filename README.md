@@ -40,3 +40,7 @@ groups:
 
 
 `ansible-playbook -i ./dynamic-mysql.yml -i ./constructed.yml playbooks/setup.yml -e "play_customer='Ferrari'" -l target_customer`
+
+# Requirements
+
+ansible-core >= 2.11
